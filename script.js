@@ -1,3 +1,4 @@
+
 var counter1 = document.querySelector(".counting1")
 var counter2 = document.querySelector(".counting2")
 var counter3 = document.querySelector(".counting3")
@@ -20,6 +21,7 @@ setInterval(() =>{
         counter3.innerText = count3;
     } 
 },1)
+
 
 $(document).ready(function(){
     $(window).scroll(function(){
@@ -71,3 +73,44 @@ function openFormreceiver() {
 function closeFormreceiver() {
     document.getElementById("myFormreceiver").style.display = "none";
 }
+
+
+    // // typing text animation script
+    // var typed = new Typed(".typing", {
+    //     strings: ["Website Developer", "Blogger", "Content Writer", "Learner", "Student"],
+    //     typeSpeed: 100,
+    //     backSpeed: 60,
+    //     loop: true
+    // });
+
+    // var typed = new Typed(".typing-2", {
+    //     strings: ["Website Developer", "Blogger", "Content Writer", "Learner", "Student"],
+    //     typeSpeed: 100,
+    //     backSpeed: 60,
+    //     loop: true
+    // });
+
+    // // owl carousel script
+    // $('.carousel').owlCarousel({
+    //     margin: 20,
+    //     loop: true,
+    //     autoplayTimeOut: 2000,
+    //     autoplayHoverPause: true,
+    //     responsive: {
+    //         0:{
+    //             items: 1,
+    //             nav: false
+    //         },
+    //         600:{
+    //             items: 2,
+    //             nav: false
+    //         },
+    //         1000:{
+    //             items: 3,
+    //             nav: false
+    //         }
+    //     }
+    // });
+
+
+
