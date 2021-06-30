@@ -641,41 +641,40 @@ footer span a:hover{
   /* Add styles to the form container */
   .form-container {
     max-width: 290px;
-    padding: 10px;
+    padding: 1px;
     background-color: rgb(66, 66, 66);
     border-radius: 10px;
     color: white;
     box-shadow: 10px 10px 5px rgba(66, 66, 66, 0.397)
-    
   }
   
   /* Full-width input fields */
   .form-container input[type=text], .form-container input[type=password] {
     padding: 10px;
-    margin: 5px 20px 5px 20px;
+    margin: 1px 1px 1px 1px;
     border: none;
     background: #f1f1f1;
-    font-size: 18px;
+    font-size: 15px;
     border-radius: 5px;
   }
   
   /* When the inputs get focus, do something */
   .form-container input[type=text]:focus, .form-container input[type=password]:focus {
     outline: none;
-    font-size: 18px;
+    font-size: 16px;
   }
   
   /* Set a style for the submit/login button */
   .form-container .btn {
     background-color: rgb(27, 90, 90);
     color: rgb(0, 0, 0);
-    width: 150px;
-    padding: 10px;
+    width: 90px;
+    padding: 7px;
     cursor: pointer;
     border-radius: 10px;
-    max-height: 50px;
-    font-size: 20px;
-    margin-top: 20px;
+    max-height: 45px;
+    font-size: 15px;
+    margin-top: 5px;
   }
   
   
