@@ -5,7 +5,7 @@ body{
     height:100vh;
     overflow: hidden;
     position: relative;
-    background-color: paleturquoise;
+    background-color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .box{
