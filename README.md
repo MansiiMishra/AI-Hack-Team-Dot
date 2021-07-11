@@ -1,4 +1,6 @@
-# AI-Hack-Team-Dot
+Analyzed power bi visualization : https://drive.google.com/drive/folders/1gUoKjcDQWhqH0AaiNYjuFmWqV9_JV8SF?usp=sharing
+Database JSON file : https://drive.google.com/drive/folders/1xM_rNe-oXmavLqZngKUb1JJ8YU5SNTm3?usp=sharing
+
 ![image](https://user-images.githubusercontent.com/69236876/125195380-f46f0e00-e272-11eb-87c8-95fdae830688.png)
 ![image](https://user-images.githubusercontent.com/69236876/125195388-ffc23980-e272-11eb-9f58-85e313b1185f.png)
 ![image](https://user-images.githubusercontent.com/69236876/125195427-3009d800-e273-11eb-9479-aa07f575b9ef.png)
