@@ -64,7 +64,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!--Main CSS-->
-    <link rel="stylesheet" href="donationpage.css">
+    <link rel="stylesheet" href="css/donationpage.css">
     <!--fontawesome-->
     <script src="https://kit.fontawesome.com/332a215f17.js" crossorigin="anonymous"></script>
     <!--google Fonts-->
@@ -103,7 +103,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
                     John Smith
                 </h2>
                 <p class="animate__animated animate__fadeInUp">
-                    <img src="Cow sale 1.jpg" alt="Cow Sale" width="300px" height="300px"><br><br>
+                    <img src="img/Cow sale 1.jpg" alt="Cow Sale" width="300px" height="300px"><br><br>
                     A small donation to buy a cow for our stable as in this COVID era we are unfortunate to have demise of 2 cows.
                 </p>
                 <a href="#"class="btn hero-btn animate__animated animate__backInUp">

@@ -65,7 +65,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!--Main CSS-->
-    <link rel="stylesheet" href="donationpage.css">
+    <link rel="stylesheet" href="css/donationpage.css">
     <!--fontawesome-->
     <script src="https://kit.fontawesome.com/332a215f17.js" crossorigin="anonymous"></script>
     <!--google Fonts-->
@@ -102,7 +102,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
                     Ramesh Chavla
                 </h2>
                 <p class="animate__animated animate__fadeInUp">
-                    <img src="Autorickshaw.jpg" alt="Autorickshaw" width="300px" height="300px"><br><br>
+                    <img src="img/Autorickshaw.jpg" alt="Autorickshaw" width="300px" height="300px"><br><br>
                     A generuos request to all the donors i have been working hard to earn for my family and i have am collecting money for the same. Please do help me.
                 </p>
                 <a href="#"class="btn hero-btn animate__animated animate__backInUp">

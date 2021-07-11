@@ -66,7 +66,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!--Main CSS-->
-    <link rel="stylesheet" href="donationpage.css">
+    <link rel="stylesheet" href="css/donationpage.css">
     <!--fontawesome-->
     <script src="https://kit.fontawesome.com/332a215f17.js" crossorigin="anonymous"></script>
     <!--google Fonts-->
@@ -105,7 +105,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
                     Ramesh Babu
                 </h2>
                 <p class="animate__animated animate__fadeInUp">
-                    <img src="Embriodary.jpg" alt="Embriodary" width="300px" height="300px"><br><br>
+                    <img src="img/Embriodary.jpg" alt="Embriodary" width="300px" height="300px"><br><br>
                     Setting up a startup of embroidary work do help be reach my dream startup #HandcraftSkill
                 </p>
                 <a href="#"class="btn hero-btn animate__animated animate__backInUp">
