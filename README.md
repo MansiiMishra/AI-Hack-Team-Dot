@@ -2,7 +2,6 @@ Analyzed power bi visualization : https://drive.google.com/drive/folders/1gUoKjc
 Database JSON file : https://drive.google.com/drive/folders/1xM_rNe-oXmavLqZngKUb1JJ8YU5SNTm3?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/69236876/125195380-f46f0e00-e272-11eb-87c8-95fdae830688.png)
-![image](https://user-images.githubusercontent.com/69236876/125195388-ffc23980-e272-11eb-9f58-85e313b1185f.png)
 ![image](https://user-images.githubusercontent.com/69236876/125195427-3009d800-e273-11eb-9479-aa07f575b9ef.png)
 ![image](https://user-images.githubusercontent.com/69236876/125195434-3730e600-e273-11eb-89d9-034007364164.png)
 ![image](https://user-images.githubusercontent.com/69236876/125195437-3c8e3080-e273-11eb-8ba0-3547bf003935.png)
